@@ -1,7 +1,7 @@
 ### Hello, I'm Christian Espinoza 👋  
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisCodeX&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisCodeX&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisCodeX&theme=chartreuse-dark)](https://git.io/streak-stats)
 <!--
 **ChrisCodeX/ChrisCodeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
