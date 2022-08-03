@@ -25,9 +25,9 @@ Micro Services, System Design, gRPC, Websockets, RESTfull-API
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-I have been using these languages for years, mainly Go (+2 years) and Python (+2 year). 
+I have been using those technologies for years, mainly Go (+2 years) and Python (+2 year).  
+Most of my knowledge is endorsed by certificates (Check my [LinkedIn](https://www.linkedin.com/in/christian-gonzalo-espinoza-cadillo-a29702234/)).
 
 
 
@@ -36,22 +36,7 @@ I have been using these languages for years, mainly Go (+2 years) and Python (+2
 [<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/christian-gonzalo-espinoza-cadillo-a29702234/)
 [<img align="left" alt="Sabesan | Facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.linkedin.com/in/christian-gonzalo-espinoza-cadillo-a29702234/)
 </br>
-## Stats:
-<!--
----
+## Stats:  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisCodeX&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisCodeX&theme=chartreuse-dark)](https://git.io/streak-stats)
-<!--
-**ChrisCodeX/ChrisCodeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
