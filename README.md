@@ -34,6 +34,10 @@ Most of my knowledge is endorsed by certificates (Check my [LinkedIn](https://ww
 
 
 
+## I am currently learning:
+- Machine Learning
+- Amazon Web Service Cloud (AWS)
+
 ## My network:
 
 [<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/christian-gonzalo-espinoza-cadillo-a29702234/)
