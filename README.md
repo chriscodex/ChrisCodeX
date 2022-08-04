@@ -8,9 +8,12 @@
 If you have an idea in mind, we can build it together.
 
 
-## I am into:  
-Micro Services, System Design, gRPC, Websockets, RESTfull-API 
-
+## I am into: 
+- Systems Design
+- Go/Python Backend: Web and Systems
+  - gRPC 
+  - WebSockets 
+  - RESTfull API
 
 ## Languages and Tools:  
 
