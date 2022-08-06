@@ -13,7 +13,7 @@ If you have an idea in mind, we can build it together.
 - Go/Python Backend: Web and Systems
   - gRPC 
   - WebSockets 
-  - RESTfull API
+  - RESTful API
 
 ## Languages and Tools:  
 
