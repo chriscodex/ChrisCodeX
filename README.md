@@ -36,7 +36,7 @@ Most of my knowledge is endorsed by certificates (Check my [LinkedIn](https://ww
 
 ## I am currently learning:
 - Machine Learning
-- Amazon Web Service Cloud (AWS)
+- Amazon Web Services Cloud (AWS)
 
 ## My network:
 
