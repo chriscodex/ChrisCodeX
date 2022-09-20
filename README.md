@@ -42,7 +42,7 @@ Most of my knowledge is endorsed by certificates (Check my [LinkedIn](https://ww
 
 ## My network:
 
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/christian-espinoza-cadillo-a29702234/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/christian-espinoza-cadillo-a29702234/)
 [<img align="left" alt="Sabesan | Facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/christian.espinozacadillo/)
 </br>
 ## Stats:  
