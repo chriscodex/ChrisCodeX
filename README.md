@@ -1,7 +1,5 @@
 ### Hello, I'm Christian Espinoza and this is my genome (CV) 👋 
 
-
-
 - I'm a Computer and Systems Engineer (Bsc.)
 - I'm a Backend Developer  
 
@@ -38,6 +36,7 @@ Most of my knowledge is endorsed by certificates (Check my [LinkedIn](https://ww
 ## I am currently learning:
 - DevOps
 - Machine Learning
+- Google Cloud Platform
 - Amazon Web Services Cloud (AWS)
 
 ## My network:
