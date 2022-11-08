@@ -28,7 +28,7 @@ If you have an idea in mind, we can build it together.
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
 
-I have been using those technologies for years, mainly Go (+2 years) and Python (+2 year).  
+I have been using those technologies for years, mainly Go (+2 years) and Python (+1 year).  
 Most of my knowledge is endorsed by certificates (Check my [LinkedIn](https://www.linkedin.com/in/christian-espinoza-cadillo-a29702234/)).
 
 ## I am currently learning:
