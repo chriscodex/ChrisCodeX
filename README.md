@@ -13,6 +13,7 @@ If you have an idea in mind, we can build it together.
   - gRPC 
   - WebSockets 
   - RESTful API
+- TypeScript/Angular Frontend
 
 ## Languages and Tools:  
 
