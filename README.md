@@ -1,7 +1,7 @@
-### Hello, I'm Christian Espinoza and this is my genome (CV) 👋 
+### Hello, I'm Christian Espinoza and this is my CV 👋 
 
-- I'm a Computer and Systems Engineer (Bsc.)
-- I'm a Backend Developer  
+- I'm a Computer and Systems Engineer (BSc.)
+- I'm a Full Stack Developer  
 
 If you have an idea in mind, we can build it together.
 
