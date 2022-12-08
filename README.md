@@ -9,11 +9,11 @@ If you have an idea in mind, we can build it together.
 ## I am into: 
 - Systems Design
 - Microservices
+- TypeScript/Angular Frontend
 - Go/Python Backend: Web and Systems
   - gRPC 
   - WebSockets 
   - RESTful API
-- TypeScript/Angular Frontend
 
 ## Languages and Tools:  
 
