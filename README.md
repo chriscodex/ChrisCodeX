@@ -3,7 +3,7 @@
 - I'm a Computer and Systems Engineer (BSc.)
 - I'm a Full Stack Developer  
 
-If you have an idea in mind, we can build it together.
+If it can be imagined, it can be programmed.
 
 
 ## I am into: 
