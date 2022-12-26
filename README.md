@@ -24,6 +24,7 @@ If it can be imagined, it can be programmed.
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap5-563d7c?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-00ADD8?style=flat&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
