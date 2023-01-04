@@ -9,17 +9,18 @@ If it can be imagined, it can be programmed.
 ## I am into: 
 - Systems Design
 - Microservices
-- TypeScript/Angular Frontend
-- Go/Python Backend: Web and Systems
-  - gRPC 
-  - WebSockets 
+- Frontend Technologies: Angular/TypeScript
+- Backend Technologies: Go, NodeJS(Express) and Python(FastAPI)
   - RESTful API
+  - WebSockets 
+  - gRPC
 
 ## Languages and Tools:  
 
-<img src = "https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> <img src = "https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
+<img src = "https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> <img src = "https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"> 
 <img src = "https://img.shields.io/badge/Typescript-3179C6?style=flat&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white">
+<img src = "https://img.shields.io/badge/NodeJS-43853D?style=flat&logo=node.js&logoColor=white">
+<img src = "https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white">
 <img src = "https://img.shields.io/badge/Angular-a6120d?style=flat&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -31,6 +32,7 @@ If it can be imagined, it can be programmed.
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google-cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
 
