@@ -8,7 +8,7 @@ If it can be imagined, it can be programmed.
 
 ## I am into: 
 - Systems Design
-- Microservices
+- Microservices (NATS)
 - Frontend Technologies: Angular/TypeScript
 - Backend Technologies: Go, NodeJS(Express) and Python(FastAPI)
   - RESTful API
