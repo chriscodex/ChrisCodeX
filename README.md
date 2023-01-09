@@ -50,5 +50,5 @@ Most of my knowledge is endorsed by certificates (Check my [LinkedIn](https://ww
 </br>
 ## Stats:  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisCodeX&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)  
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisCodeX&theme=chartreuse-dark)](https://git.io/streak-stats)
