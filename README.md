@@ -8,12 +8,11 @@ If it can be imagined, it can be programmed.
 
 ## I am into: 
 - Systems Design
-- Microservices (NATS)
+- Microservices (NATS/gRPC)
 - Frontend Technologies: Angular/TypeScript
 - Backend Technologies: Go, NodeJS(Express) and Python(FastAPI)
   - RESTful API
-  - WebSockets 
-  - gRPC
+  - WebSockets
 
 ## Languages and Tools:  
 
