@@ -10,7 +10,7 @@ If it can be imagined, it can be programmed.
 - Systems Design
 - Microservices (NATS/gRPC)
 - Frontend Technologies: Angular/TypeScript
-- Backend Technologies: Go, NodeJS(Express) and Python(FastAPI)
+- Backend Technologies: Go, NodeJS(Express & NestJS) and Python(FastAPI)
   - RESTful API
   - WebSockets
 
