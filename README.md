@@ -16,10 +16,11 @@ If it can be imagined, it can be programmed.
 
 ## Languages and Tools:  
 
-<img src = "https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> <img src = "https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"> 
+<img src = "https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> <img src = "https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"> 
 <img src = "https://img.shields.io/badge/Typescript-3179C6?style=flat&logo=typescript&logoColor=white">
 <img src = "https://img.shields.io/badge/NodeJS-43853D?style=flat&logo=node.js&logoColor=white">
 <img src = "https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white">
+<img src = "https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
 <img src = "https://img.shields.io/badge/Angular-a6120d?style=flat&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
