@@ -51,4 +51,4 @@ Most of my knowledge is endorsed by certificates (Check my [LinkedIn](https://ww
 ## Stats:  
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisCodeX&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisCodeX&theme=chartreuse-dark)]()
