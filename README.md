@@ -3,7 +3,7 @@
 - I'm a Computer and Systems Engineer (BSc.)
 - I'm a Full Stack Developer  
 
-If it can be imagined, it can be programmed.
+Never stop learning.
 
 
 ## I am into: 
@@ -36,7 +36,7 @@ If it can be imagined, it can be programmed.
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
 
-I have been using those technologies for years, mainly Go (+2 years) and Python (+1 year).  
+I have been using these technologies for several years in personal projects and projects I've done in college.
 Most of my knowledge is endorsed by certificates (Check my [LinkedIn](https://www.linkedin.com/in/christian-espinoza-cadillo-a29702234/)).
 
 ## I am currently learning:
