@@ -9,8 +9,8 @@ Never stop learning.
 ## I am into: 
 - Systems Design
 - Microservices (NATS/gRPC)
-- Frontend Technologies: React.js/TypeScript
-- Backend Technologies: Go, Node.js (Express.js & Nest.js) and Python(FastAPI)
+- Front-end Technologies: React.js/Typescript
+- Back-end Technologies: Go, Node.js (Express.js & Nest.js) and Python(FastAPI)
   - RESTful API
   - WebSockets
 
