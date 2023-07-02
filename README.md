@@ -9,22 +9,23 @@ Never stop learning.
 ## I am into: 
 - Systems Design
 - Microservices (NATS/gRPC)
-- Frontend Technologies: Angular/TypeScript
-- Backend Technologies: Go, NodeJS(Express & NestJS) and Python(FastAPI)
+- Frontend Technologies: React.js/TypeScript
+- Backend Technologies: Go, Node.js (Express.js & Nest.js) and Python(FastAPI)
   - RESTful API
   - WebSockets
 
 ## Languages and Tools:  
 
-<img src = "https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> <img src = "https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"> 
+<img src = "https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> <img src = "https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
 <img src = "https://img.shields.io/badge/Typescript-3179C6?style=flat&logo=typescript&logoColor=white">
-<img src = "https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white">
-<img src = "https://img.shields.io/badge/NodeJS-43853D?style=flat&logo=node.js&logoColor=white">
-<img src = "https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white">
-<img src = "https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
-<img src = "https://img.shields.io/badge/Angular-a6120d?style=flat&logo=angular&logoColor=white">
+<img src = "https://img.shields.io/badge/Javascript-F0DB4F?style=flat&logo=javascript&logoColor=white">
+<img src = "https://img.shields.io/badge/React.js-1c2c4c?style=flat&logo=react&logoColor=%2361DAFB">
+<img src = "https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
+<img src = "https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white">
+<img src = "https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap5-563d7c?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-00ADD8?style=flat&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
@@ -40,7 +41,7 @@ I have been using these technologies for several years in personal projects and 
 Most of my knowledge is endorsed by certificates (Check my [LinkedIn](https://www.linkedin.com/in/christian-espinoza-cadillo-a29702234/)).
 
 ## I am currently learning:
-- ReactJS
+- Next.js
 - DevOps & CI/CD
 - Backend as a service
 
