@@ -18,7 +18,7 @@ Never stop learning.
 
 <img src = "https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> <img src = "https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white">
 <img src = "https://img.shields.io/badge/Typescript-3179C6?style=flat&logo=typescript&logoColor=white">
-<img src = "https://img.shields.io/badge/Javascript-F0DB4F?style=flat&logo=javascript&logoColor=white">
+<img src = "https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
 <img src = "https://img.shields.io/badge/React.js-1c2c4c?style=flat&logo=react&logoColor=%2361DAFB">
 <img src = "https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
 <img src = "https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white">
