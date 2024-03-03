@@ -1,14 +1,13 @@
-### Hello, I'm Christian Espinoza and this is my CV 👋 
+### Hello, I'm Christian Espinoza 👋 
 
 - I'm a Computer and Systems Engineer (BSc.)
 - I'm a Full Stack Web Developer  
 
 Never stop learning.
 
-
 ## I am into: 
 - Systems Design
-- Microservices (NATS/gRPC)
+- Microservices (Kafka, NATS/gRPC)
 - Front-end Technologies: Next.js - React.js / Typescript
 - Back-end Technologies: Go, Node.js (Express.js & Nest.js) and Python(FastAPI)
   - RESTful API
@@ -39,8 +38,7 @@ Never stop learning.
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
 
-I have been using these technologies for several years in personal projects and projects I've done in college.
-Most of my knowledge is endorsed by certificates (Check my [LinkedIn](https://www.linkedin.com/in/christian-espinoza-cadillo-a29702234/)).
+I have been using these technologies for several years in professional and personal projects. (Check my [website](https://chriscodex.vercel.app/)).
 
 ## I am currently learning:
 - Vue.js
