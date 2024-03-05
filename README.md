@@ -41,7 +41,7 @@ Never stop learning.
 I have been using these technologies for several years in professional and personal projects. (Check my [website](https://chriscodex.vercel.app/)).
 
 ## I am currently learning:
-- Vue.js
+- Kubernetes
 - DevOps & CI/CD
 
 ## My network:
