@@ -7,10 +7,11 @@ Never stop learning.
 
 ## I am into: 
 - Systems Design
-- Microservices (Kafka, NATS/gRPC)
+- Microservices (Kafka & RabbitMQ)
 - Front-end Technologies: Next.js - React.js / Typescript
 - Back-end Technologies: Go, Node.js (Express.js & Nest.js) and Python(FastAPI)
   - RESTful API
+  - GraphQL
   - WebSockets
 
 ## Languages and Tools:  
