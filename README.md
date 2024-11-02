@@ -32,7 +32,8 @@ Never stop learning.
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat&logo=Amazon&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=iCloud&logoColor=white">
 <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google-cloud&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white">
