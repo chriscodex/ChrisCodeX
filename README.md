@@ -1,6 +1,7 @@
 ### Hello, I'm Christian Espinoza 👋 
 
 - I'm a Full Stack Web Developer
+- I'm a Master's degree in DevOps
 - I'm a Computer and Systems Engineer (BSc.)
 
 Never stop learning.
@@ -8,6 +9,7 @@ Never stop learning.
 ## I am into: 
 - Systems Design
 - Microservices (Kafka & RabbitMQ)
+- DevOps (AWS - Azure - Kubernetes - Docker - Terraform - EKS Stack/Grafana/Prometheus - Ansible - Packer)
 - Front-end Technologies: Next.js - React.js / Typescript
 - Back-end Technologies: Go, Node.js (Express.js & Nest.js) and Python(FastAPI)
   - RESTful API
@@ -40,10 +42,10 @@ Never stop learning.
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
 
-I have been using these technologies for several years in professional and personal projects. (Check my [website](https://chriscodex.vercel.app/)).
+I have been using these technologies for 4 years in professional and personal projects. (Check my [website](https://chriscodex.vercel.app/)).
 
 ## I am currently learning:
-- DevOps & CI/CD
+- Ai & Observability
 
 ## My network:
 
