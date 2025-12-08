@@ -2,7 +2,7 @@
 
 - I'm a Full Stack Web Developer
 - I'm a Master's degree in DevOps
-- I'm a Computer and Systems Engineer (BSc.)
+- I'm a Systems Engineer
 
 Never stop learning.
 
@@ -42,7 +42,7 @@ Never stop learning.
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
 
-I have been using these technologies for 4 years in professional and personal projects. (Check my [website](https://chriscodex.vercel.app/)).
+I have been using these technologies for more than 4 years in professional projects. (Check my [website](https://chriscodex.vercel.app/)).
 
 ## I am currently learning:
 - Ai & Observability
